@@ -137,15 +137,6 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 3. **Seasonal Patterns**: Purchasing behavior varies by season
 4. **Geographic Trends**: Different countries show different patterns
 
-## 📊 Evaluation Metrics
-
-| Metric | K-Means | DBSCAN |
-|--------|---------|--------|
-| Silhouette Score | - | - |
-| Davies-Bouldin Index | - | - |
-| Number of Clusters | K | Auto |
-
-*Scores depend on your specific dataset and preprocessing*
 
 ## 💡 Business Applications
 
