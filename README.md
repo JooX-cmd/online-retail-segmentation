@@ -164,13 +164,9 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Mohammed (Joox)**
 - IoT & AI Developer @ VoltX
-- CS Student @ Helwan University '27
+- CS Student @ Helwan University 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
